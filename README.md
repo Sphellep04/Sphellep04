@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Phellep (Sphellep04)
 
-💻 Software Developer | Building Real-World Systems  
-🚀 Focused on writing clean, scalable code and shipping useful products  
+💻 Software Developer | Building Real-World Systems    
 
 ---
 
@@ -12,7 +11,7 @@ I focus on building systems that are practical, efficient, and scalable.
 
 - 🎓 Computer Science background  
 - ⚙️ Strong interest in AI, Data Systems & Smart Applications  
-- 🔨 I build, test, break, and improve — consistently  
+- 🔨 I build, test, break, and improve consistently  
 - 📈 Always aiming to write better code than last week  
 
 ---
@@ -65,13 +64,8 @@ Currently refining and organizing my best work to showcase here.
 In the meantime, feel free to explore my repositories — they reflect what I’ve been building and experimenting with.
 
 🌍 Let's Work
-I'm open to software development opportunities —
-freelance, contract, or full-time roles.
-
-💼 LinkedIn: https://www.linkedin.com/in/phellep-shapopi-298431213
-
-💻 GitHub: https://github.com/Sphellep04
+I'm open to software development opportunities
 
 🔥 Philosophy
-“Adapt and be flexible.”
+“Adapt and be flexible.” "Build and Evolve"
 
