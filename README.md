@@ -49,14 +49,13 @@ I focus on building systems that are practical, efficient, and scalable.
 
 ---
 
-📂 Projects
+## 📂 Projects
 Currently refining and organizing my best work to showcase here.
 In the meantime, feel free to explore my repositories — they reflect what I’ve been building and experimenting with.
 
-🌍 Let's Work
+## 🌍 Let's Work
 I'm open to software development opportunities
 
-🔥 Philosophy
 “Adapt and be flexible"
 "Build and Evolve"
 
