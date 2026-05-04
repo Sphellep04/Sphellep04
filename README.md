@@ -49,16 +49,6 @@ I focus on building systems that are practical, efficient, and scalable.
 
 ---
 
-## ⚡ Developer Mindset
-
-```javascript
-const mindset = () => {
-  while (true) {
-    learn();
-    build();
-    optimize();
-  }
-};
 📂 Projects
 Currently refining and organizing my best work to showcase here.
 In the meantime, feel free to explore my repositories — they reflect what I’ve been building and experimenting with.
@@ -67,5 +57,6 @@ In the meantime, feel free to explore my repositories — they reflect what I’
 I'm open to software development opportunities
 
 🔥 Philosophy
-“Adapt and be flexible.” "Build and Evolve"
+“Adapt and be flexible"
+"Build and Evolve"
 
