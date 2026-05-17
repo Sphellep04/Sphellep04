@@ -8,40 +8,14 @@
 
 <br/>
 
-## 🧠 About Me
-
-I build software that works in the real world — not just in theory.
-Obsessed with clean systems, constant iteration, and shipping things that matter.
-
-| | |
-|---|---|
-| 🎓 Computer Science background | ⚙️ AI, Data Systems & Smart Applications |
-| 🔨 Build → Test → Break → Improve | 📈 Better code every single week |
-
-<br/>
-
-## 🚀 What I'm Working On
-
-| Area | Focus |
-|---|---|
-| 🖥️ Production Applications | End-to-end systems built to last |
-| 🔧 Backend & Full-Stack | Scalable APIs, databases, real architecture |
-| 🏗️ System Design | Thinking beyond the feature |
-| 🤖 AI & Automation | Practical intelligence, not hype |
-
-<br/>
-
-## 🏆 Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sphellep04&theme=tokyonight&no-frame=true&column=7&margin-w=6" width="100%" />
+I build software that works in the real world, not just in theory.<br/>
+Obsessed with clean systems, constant iteration, and shipping things that matter.
 
 </div>
 
 <br/>
-
-## 📊 Stats
 
 <div align="center">
 
@@ -51,23 +25,17 @@ Obsessed with clean systems, constant iteration, and shipping things that matter
 
 <br/>
 
-## 📈 Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sphellep04&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" />
+<img src="https://raw.githubusercontent.com/Sphellep04/Sphellep04/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 <br/>
 
-## 🌍 Let's Connect
-
-Open to opportunities, collaboration, and ambitious projects.
-
 <div align="center">
 
-*"Adapt and be flexible — Build and Evolve"*
+<img src="https://quotes-readme.vercel.app/api/quote?type=horizontal&theme=dark" width="100%" />
 
 </div>
 
