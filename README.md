@@ -54,14 +54,6 @@
 
 <br/>
 
-<div align="center">
-
-[![Readme Quotes](https://quotes-readme.vercel.app/api/quote?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
-
-</div>
-
-<br/>
-
 ## 🌍 Let's Connect
 
 I'm open to software development opportunities and collaboration.
