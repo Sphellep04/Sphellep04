@@ -46,12 +46,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sphellep04/Sphellep04/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
 <br/>
 
 ## 🌍 Let's Connect
