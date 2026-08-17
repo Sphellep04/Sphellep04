@@ -10,8 +10,6 @@
 
 <br/>
 
-<br/>
-
 ##  Let's Connect
 
 I'm open to software development opportunities and collaboration.
